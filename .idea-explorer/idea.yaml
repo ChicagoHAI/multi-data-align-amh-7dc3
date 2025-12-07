@@ -1,0 +1,20 @@
+idea:
+  title: Comprehensive Review of Multimodal Data Alignment Techniques for Adolescent
+    Mental Health AI Modeling
+  domain: machine_learning
+  hypothesis: 'Effective alignment and integration of multimodal data improve the
+    accuracy and interpretability of AI models for adolescent mental health outcomes.
+
+    '
+  background:
+    description: A critical review of methods for aligning and integrating heterogeneous
+      multimodal data (questionnaires, language, EMAs, EEG, voice) in AI models targeting
+      adolescent depression and anxiety.
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/kz9jAiLrftevy6iyYEJ5
+    idea_id: comprehensive_review_of_multim_20251207_001147_967601ed
+    created_at: '2025-12-07T00:11:47.868169'
+    status: submitted
+    github_repo_name: multi-data-align-amh-7dc3
+    github_repo_url: https://github.com/ChicagoHAI/multi-data-align-amh-7dc3
